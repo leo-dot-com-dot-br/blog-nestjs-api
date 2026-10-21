@@ -80,7 +80,7 @@ Authorization: Bearer {{jwtToken}}
   "title": "Título do post",
   "excerpt": "Excerto do post",
   "content": "Conteúdo",
-  "coverImageUrl": "http://localhost:3000"
+  "coverImageUrl": "http://localhost"
 }
 
 ### Read all post public
