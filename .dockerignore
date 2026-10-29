@@ -1,0 +1,9 @@
+.vscode
+dev/images
+node_modules
+rest-client/requests.http
+dist
+.env*
+.git
+uploads
+db.sqlite*
